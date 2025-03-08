@@ -24,9 +24,16 @@ This ensures you have correctly downloaded the dataset.
 
 We wish to find patterns in Crime Data from Los Angeles to aid with law enforcement agencies and facilitate police dispatch
 
+
 ### Using the Repository
 
 You can use download this repository to visualize the data and implement machine learning algorithms
 
+Files: 
+datavis.ipynb: Jupyter notebook including everything from loading the dataset, cleaning the dataset, and visualizing the data with plots.
+Makefile: file that runs useful tests.
+plots/ : contains useful plots visualizing the data
+milestones/ : documenting the progress of this project
+README.md: this file, has useful info about the project
 
 
